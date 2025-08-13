@@ -1,5 +1,5 @@
 ## Примеры задач на которых я практиковался SQL и мои решения
 Для ознакомления с моим уровнем SQL оставляю несколько последних задач.
 >
-Иточники задач: `https://datalemur.com/` и `https://leetcode.com/`
+Иточники задач: `https://datalemur.com/` `https://leetcode.com/` `www.codewars.com`
 >
